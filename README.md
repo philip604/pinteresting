@@ -3,5 +3,5 @@
 This is the Pinteresting sample applicatioin for
 [*One Month Rails*] (http://onemonthrails)
 
-by Philip Wong (http://philipwong.org)
+by Philip Wong (http://philipwong.org) check it out
 
